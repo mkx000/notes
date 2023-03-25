@@ -1,2 +1,1 @@
-# Jack
-Jack is for exercise
+# 计算机知识备忘
