@@ -21,7 +21,7 @@ keywords: markdown  typora   manual
 > ## 这是二级标题
 > ### 这是三级标题
 
-### 1.2 表格
+### 1.2 列表
 * 没有
 * 顺序
 * 的表格
