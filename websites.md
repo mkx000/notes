@@ -2,9 +2,6 @@
 author: mkx
 ---
 
-
-# 计算机知识备忘
-
 # Linux
 
 ## Linux command
